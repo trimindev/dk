@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Manchester City Home Kit",
+    "price": "79",
+    "imageUrl": "/products/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Liverpool Home Kit",
+    "price": "79",
+    "imageUrl": "/products/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Barcelona Away Kit",
+    "price": "79",
+    "imageUrl": "/products/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Real Madrid Third Kit",
+    "price": "79",
+    "imageUrl": "/products/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Juventus Home Kit",
+    "price": "79",
+    "imageUrl": "/products/1.jpg"
+  }
+]
